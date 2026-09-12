@@ -1,0 +1,19 @@
+{
+  "appId": "com.shiraz.oasisledger",
+  "appName": "Oasis Capacitor",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  },
+  "ios": {
+    "contentInset": "always",
+    "backgroundColor": "#fafaff"
+  },
+  "plugins": {
+    "StatusBar": {
+      "overlaysWebView": false,
+      "style": "DARK",
+      "backgroundColor": "#fafaff"
+    }
+  }
+}
